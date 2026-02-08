@@ -1,1 +1,0 @@
-# Este proyecto es una página web para un salón de belleza.
